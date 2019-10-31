@@ -1,0 +1,51 @@
+<div id="header"></div>
+<div class="left"></div>
+<div class="stuff">
+  <br><br>
+  <h1><center>Resume</h1>
+  <h2><center>Aldin Djapo</h2>
+  <hr />
+  <br>
+  <p class="head">Interests</p>
+  <ul>
+    <li>Programming</li>
+    <li>Swimming</li>
+    <li>Music</li>
+    <li>Guitar</li>
+    <li>Producing</li>
+  </ul>
+  <p class="head">Education</p>
+  <ul>
+    <a href="http://www.bosnjackagim.edu.ba/">
+      <li>Prva Bosnjacka gimnazija Sarajevo</li>
+    </a>
+    <!--Link-->
+    <a href="https://www.ius.edu.ba/">
+      <li>International University of Sarajevo</li>
+    </a>
+    <li>387 Academy</li>
+  </ul>
+  <p class="head">Skills</p>
+  <ul>
+    <li>Web Design with HTML & CSS</li>
+     <li>Guitar playing</li>
+     <li>Producing in FL Studio</li>
+    <li>Composer</li>
+    <li>Photoshop</li>
+  </ul>
+  
+  <p class="head">Experience</p>
+  <ul>
+    <li>Swimming coach</li>
+    <li>Swimming referee</li>
+    <li>Schwarzmueller (part time job)</li>
+  </ul>
+  <p class="head">Accolades</p>
+  <ul>
+    <li>National Swimming champion</li>
+    <li>Interational Swimming champion</li>
+    <li>Primary Musical School contest (1st place)</li>
+    <li>Volleyball tournament winners (High School)</li>
+    
+  </ul>
+</div>
