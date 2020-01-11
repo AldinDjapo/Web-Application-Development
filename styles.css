@@ -1,42 +1,43 @@
 .active[data-tab-content] {
-    display: block;
-  }
+  display: block;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding: 0;
+  margin: 0;
+  background-color: rgb(73, 73, 73);
   
-  body {
-      font-family: Arial, Helvetica, sans-serif;
-    padding: 0;
-    margin: 0;
-    background-color: rgb(77, 0, 0);
-    
-  }
+}
+
+.tabs {
+   font-family: century Gothic; 
+  display: block;
+  list-style-type: none;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+  color: rgb(109, 2, 2);
+}
+
+.tab {
+  cursor: pointer;
+  padding: 30px;
+  transition: 1s ease;
+}
+
+.tab.active {
+  background-color: rgb(0, 0, 0);
+  color: rgb(189, 5, 5);
   
-  .tabs {
-    font-family: Arial, Helvetica, sans-serif; 
-    list-style-type: square;
-    justify-content: center;
-    margin: 0;
-    padding: 0;
-    color: rgb(255, 255, 255);
-  }
-  
-  .tab {
-    cursor: pointer;
-    padding: 20px;
-    transition: 0.5s linear;
-  }
-  
-  .tab.active {
-    background-color: rgb(255, 255, 255);
-    color: rgb(77, 0, 0);
-    
-  }
-  
-  .tab:hover {
-    background-color: rgb(197, 137, 26);
-  
-  }
-  
-  .tab-content {
-    margin-left: 30px;
-    margin-right: 30px;
-  }
+}
+
+.tab:hover {
+  background-color: rgb(83, 83, 83);
+
+}
+
+.tab-content {
+  margin-left: 50px;
+  margin-right: 50px;
+}
